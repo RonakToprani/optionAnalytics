@@ -1,3 +1,6 @@
 # Ignore large database files
 *.db
-
+*.pyc
+*__pycache__/
+*.db-shm
+*.db-wal
